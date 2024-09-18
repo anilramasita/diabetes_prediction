@@ -7,4 +7,4 @@ Main aim of the project is to predict whether the patient having diabetes or not
 3. Spiltted the data and trained using logistic regression model.
 4. Evaluated model accuracy on test data set.
 
- Note: You can get accuracy by perfoming regualarization techniques(L1&L2).
+ Note: You can get more accuracy by performing regualarization techniques(L1&L2).
